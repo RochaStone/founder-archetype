@@ -1,0 +1,25 @@
+{
+  "name": "founder-archetype",
+  "display_name": "The 5 Founder Archetypes",
+  "version": "1.0.0",
+  "description": "Discover your Founder Archetype — how you build, lead, and transmit. Free tool by Thriving Era Studio.",
+  "author": {
+    "name": "Rochelle Livingstone",
+    "url": "https://founders.thrivingera.com",
+    "email": "rochelle@thrivingera.com"
+  },
+  "homepage": "https://founders.thrivingera.com",
+  "repository": "https://github.com/RochaStone/founder-archetype",
+  "license": "FREE",
+  "categories": ["productivity", "brand", "business", "founder"],
+  "tags": ["founder-archetype", "brand-voice", "conscious-business", "brand-alchemy", "founder-os"],
+  "install": {
+    "command": "/plugin marketplace add RochaStone/founder-archetype"
+  },
+  "requirements": {
+    "claude_code": ">=1.0.0"
+  },
+  "pricing": {
+    "model": "free"
+  }
+}
