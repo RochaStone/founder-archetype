@@ -1,0 +1,26 @@
+{
+  "name": "founder-archetype",
+  "owner": {
+    "name": "Thriving Era Studio",
+    "email": "rochellelivingstone@gmail.com"
+  },
+  "metadata": {
+    "description": "Discover your Founder Archetype — free tool by Thriving Era Studio.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "founder-archetype",
+      "source": "./plugins/founder-archetype",
+      "description": "Discover your Founder Archetype — Initiatrix, Weaver, Oracle, Architect, or Mirror. 8 questions, your transmission frequency identified. Free tool by Thriving Era Studio.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Thriving Era Studio"
+      },
+      "category": "business",
+      "tags": ["founder-archetype", "brand-alchemy", "conscious-business", "brand-voice", "founder-os"],
+      "keywords": ["founder archetype", "brand alchemy", "conscious founder", "brand voice", "transmission"]
+    }
+  ]
+}
