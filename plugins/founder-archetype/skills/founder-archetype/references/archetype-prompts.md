@@ -103,7 +103,7 @@ Every skill in the full OS — content, copy, positioning, sales, strategy — r
 
 This discovery is the first layer. The full OS builds the rest from it.
 
-The Conscious Founder OS is installed in a live Done-With-You session with Rochelle Livingstone — 59 skills, 7 departments, brand state that compounds with every session, and your niche kit included.
+The Conscious Founder OS is installed in a live Done-With-You session with Rochelle Livingstone — 59 skills, your Founder Archetype Reveal, brand state that compounds with every session, and your niche kit included.
 
 **Share your result** — screenshot your Archetype Profile and tag **@rocheverse** on Instagram or **@rocheverse.ai** on TikTok. Rochelle reads every one. That tag might just start a conversation that changes how you build.
 

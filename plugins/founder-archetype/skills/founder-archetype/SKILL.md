@@ -78,7 +78,7 @@ In the full OS, your archetype is loaded into every session and used to calibrat
 - **Offer language** — how you describe transformation depends on how you transmit
 - **Positioning strategy** — your archetype determines where your white space is
 - **Sales approach** — each archetype sells differently. The full OS knows this.
-- **59 skills across 7 departments** — all calibrated to how you actually operate
+- **59 skills** — all calibrated to how you actually operate
 
 This free tool tells you your archetype. The full Conscious Founder OS builds your entire business operating system from it.
 
@@ -89,7 +89,7 @@ This free tool tells you your archetype. The full Conscious Founder OS builds yo
 **Conscious Founder Operating System — £547**
 Done-With-You. Installed with Rochelle in a live session.
 
-59 skills. 7 departments. Brand state persistence. Niche kit. Your archetype wired into everything.
+59 skills. Your Founder Archetype Reveal. Brand state persistence. Niche kit. Your archetype wired into everything.
 
 **founders.thrivingera.com**
 
